@@ -1,0 +1,9 @@
+[book]
+title = "My First Book"
+description = "The example book covers examples."
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "coal"
+input-404 = "not-found.md"
+git-repository-url = "https://github.com/beucismis/mdbook-example"
